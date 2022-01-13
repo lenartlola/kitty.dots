@@ -8,7 +8,7 @@ As a student at [42Lausanne](https://www.42lausanne.ch/) we are limited to resou
 Well, because I was looking for something more native to unix than iTerm, because [EVERYTHING IS A FILE](https://en.wikipedia.org/wiki/Everything_is_a_file) in Unix and so is the kitty config (I personally don't like gui based configurations, I also do like the concept of [unixporn](https://www.reddit.com/r/unixporn/)).
 
 ### Showcase
-![1](https://github.com/0xb1n4r/kitty.dots/blob/main/showcase/1.png)
+![1](https://imgur.com/a/wA1jUUV)
 
 ------------------
 
