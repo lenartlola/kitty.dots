@@ -33,7 +33,7 @@ First of all, I've removed the title bar (again a personal choice).
 
 
 ### Theme
-		`Tip Thanks to Mano`
+		`Tip, thanks to Mano`
 		kitty +kitten themes
 
 ### Progressing
