@@ -33,8 +33,8 @@ First of all, I've removed the title bar (again a personal choice).
 
 
 ### Theme
-		`Tip, thanks to Mano`
+		* Tip, thanks to Mano
 		kitty +kitten themes
 
 ### Progressing
-It is just a basic config but as I progress, I'll add more informations later on.
+It is just a basic config, but as I progress I'll add more informations later on.
