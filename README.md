@@ -25,9 +25,13 @@ First of all, I've removed the title bar (again a personal choice).
 		cmd+shift+h : split the window horizontally
 		cmd+shift+v : split the window vertically
 		ctrl+d	: close the current window
-		shift+(up, down, right, left) : resizing the windows
+		alt+cmd+(up, down, right, left) : resizing the windows
 		cmd+(up, down, right, left) : jumping through the windows
 		cmd+shift+(up, down, right, left) : moving the windows places
+
+### Font sizing
+		cmd+`+` : increase the font +1.0
+		cmd+`-` : decrease the font -1.0
 
 ### Progressing
 It is just a basic config but as I progress, I'll add more informations later on.
