@@ -31,5 +31,10 @@ First of all, I've removed the title bar (again a personal choice).
 		cmd+`+` : increase the font +1.0
 		cmd+`-` : decrease the font -1.0
 
+
+### Theme
+		`Tip Thanks to Mano`
+		kitty +kitten themes
+
 ### Progressing
 It is just a basic config but as I progress, I'll add more informations later on.
