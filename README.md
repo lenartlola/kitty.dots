@@ -10,7 +10,7 @@ Kitty is one of the tools that we are allowed to install.
 Well, because I was looking for something more native to unix than iTerm, because [EVERYTHING IS A FILE](https://en.wikipedia.org/wiki/Everything_is_a_file) in Unix and so is the kitty config (I personally don't like gui based configurations).
 
 ### Showcase
-!(Kitty)[./showcase/1.png]
+!(Kitty)[https://github.com/0xb1n4r/kitty.dots/blob/main/showcase/1.png]
 
 ------------------
 
