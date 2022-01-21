@@ -36,5 +36,23 @@ First of all, I've removed the title bar (again a personal choice).
 		* Tip, thanks to Mano
 		kitty +kitten themes
 
+
+### Add the configuration
+
+In the folder ```.config``` in your home, move the files like this tree.
+
+```
+kitty
+└── kitty.conf
+nvim
+├── init
+├── init.vim
+├── plug-config
+├── plugged
+├── shada
+└── site
+```
+
+
 ### Progressing
 It is just a basic config, but as I progress I'll add more informations later on.
