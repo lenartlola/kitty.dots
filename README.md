@@ -39,20 +39,10 @@ First of all, I've removed the title bar (again a personal choice).
 
 ### Add the configuration
 
-In the folder ```.config``` in your home, move the files like this tree.
-
-```
-kitty
-└── kitty.conf
-nvim
-├── init
-├── init.vim
-├── plug-config
-├── plugged
-├── shada
-└── site
-```
+1. Excecute ```./plug.sh```
+2. Install plugin in neovim with ```:PlugInstall```
 
 
 ### Progressing
+
 It is just a basic config, but as I progress I'll add more informations later on.

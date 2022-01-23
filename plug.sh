@@ -14,3 +14,8 @@ mkdir -p $DIR/kitty
 
 mv ./kitty.conf $DIR/kitty
 mv ./nvim $DIR/
+
+
+###	Install plug in in Neovim
+
+# nvim --cmd -c PlugInstall -c q
