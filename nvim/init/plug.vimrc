@@ -34,7 +34,7 @@ Plug 'sheerun/vim-polyglot'
 Plug 'antoinemadec/FixCursorHold.nvim'
 
 " 42 school
-Plug 'pbondoer/vim-42heder'
+Plug '42Paris/42header'
 Plug 'vim-syntastic/syntastic'
 Plug 'alexandregv/norminette-vim'
 call plug#end()
