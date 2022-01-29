@@ -7,7 +7,7 @@ Plug 'dracula/vim', { 'as': 'dracula' }
 "Plug 'mangeshrex/uwu.vim', { 'as' : 'dracula' }
 Plug 'mangeshrex/uwu.vim'
 Plug 'marko-cerovac/material.nvim'
-Plug 'shaunsingh/nord.nvim'
+Plug 'arcticicestudio/nord-vim' 
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'bryanmylee/vim-colorscheme-icons'
