@@ -48,3 +48,8 @@ name = "colorscheme"
   name = "gtags"
   gtagslabel = "pygments"
   gtagslabel = "ctags"
+
+[[layers]]
+  name = "debug"
+  debugger_plugin = "vimspector"
+
