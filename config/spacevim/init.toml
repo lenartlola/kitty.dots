@@ -39,3 +39,12 @@ default_height = 30
 
 [[layers]]
 name = "colorscheme"
+
+[[layers]]
+  name = "lang#c"
+  enable_clabg_syntax_highlight = true
+
+[[layers]]
+  name = "gtags"
+  gtagslabel = "pygments"
+  gtagslabel = "ctags"
