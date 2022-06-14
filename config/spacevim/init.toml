@@ -24,7 +24,8 @@
     enable_tabline_filetype_icon = true
     enable_statusline_mode = false
     filetree_direction = "left"
-
+    default_indent = 4
+    expand_tab = false
 
 # Enable autocomplete layer
 [[layers]]
@@ -52,4 +53,5 @@ name = "colorscheme"
 [[layers]]
   name = "debug"
   debugger_plugin = "vimspector"
+
 
