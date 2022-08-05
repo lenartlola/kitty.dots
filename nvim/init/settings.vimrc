@@ -27,7 +27,7 @@ set number
 set title
 set mouse=a
 let g:user42 = 'hsabir'
-let g:mail42 = 'hsabir@student.42.ch'
+let g:mail42 = 'hsabir@student.42lausanne.ch'
 
 let mapleader = "," " map leader to comma
 
